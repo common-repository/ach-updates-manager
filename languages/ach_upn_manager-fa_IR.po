@@ -1,0 +1,288 @@
+# Translation of Plugins - ACh Updates and Notices Manager
+# This file is distributed under the same license as the Plugins - ACh Updates and Notices Manager.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-09 03:48:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fa\n"
+
+#: includes/acupnm-settings.php:197
+msgid "Save Changes"
+msgstr "ذخیره تنظیمات"
+
+#: includes/acupnm-settings.php:185
+msgid "Rate us"
+msgstr "به ما امتیاز بدهید"
+
+#: includes/acupnm-settings.php:184
+msgid "Tweet us"
+msgstr "ما را توئیت کنید"
+
+#: includes/acupnm-settings.php:183
+msgid "Like us"
+msgstr "ما را لایک کنید"
+
+#: includes/acupnm-settings.php:182
+msgid "Buy us a coffee"
+msgstr "به ما کمک کنید"
+
+#: includes/acupnm-settings.php:178
+msgid "We work hard to give you an exceptional premium products and 5 star support. To show your appreciation you can buy us a coffee or simply by sharing or follow us on social media."
+msgstr "ما به سختی کار می کنیم تا محصولات فوق العاده حرفه‌ای با پشتیبانی 5 ستاره به شما ارائه کنیم. برای نشان دادن قدردانی خود می توانید برای ما قهوه بخرید و یا به سادگی ما را در شبکه‌های اجتماعی دنبال کنید و به دوستان خود معرفی کنید."
+
+#: includes/acupnm-settings.php:177
+msgid "ACh Updates and Notices Manager was developed by <a class=\"achupnm-link-text\" href=\"https://ach.li\" target=\"_blank\">A. Ch</a> and is <a class=\"achupnm-link-text\" href=\"https://wordpress.org\" target=\"_blank\">available for free</a> on WordPress."
+msgstr "افزونه مدیریت بروزرسانی‌ها و اطلاعیه‌های وردپرس توسط <a class=\"achupnm-link-text\" href=\"https://ach.li\" target=\"_blank\">A. Ch</a> توسعه داده شده است و در <a class=\"achupnm-link-text\" href=\"https://wordpress.org\" target=\"_blank\">وردپرس</a> به صورت رایگان در دسترس می‌باشد."
+
+#: includes/acupnm-settings.php:176
+msgid "The ACh Updates and Notices Manager is an easy way to manage all your WordPress updates and notifications with one click!"
+msgstr "با افزونه مدیریت بروزرسانی‌های ACh برای وردپرس، می‌توانید تمام بروزرسانی‌ها و اطلاعیه‌های وردپرس را با یک کلیک مدیریت کنید!"
+
+#: includes/acupnm-settings.php:173
+msgid "About us"
+msgstr "درباره ما"
+
+#: includes/acupnm-settings.php:164
+msgid "Support forum"
+msgstr "انجمن‌ پشتیبانی"
+
+#: includes/acupnm-settings.php:161
+msgid "Send email"
+msgstr "ارسال ایمیل"
+
+#: includes/acupnm-settings.php:158
+msgid "Visit my site"
+msgstr "سایت من"
+
+#: includes/acupnm-settings.php:154
+msgid "Please make a search to find help with your problem, or head over to our support forum to ask a question."
+msgstr "لطفا قبل از درخواست پشتیبانی صفحه راهنمای محصول را مشاهده فرمایید. در صورت حل نشدن مشکل تیکت ارسال کنید."
+
+#: includes/acupnm-settings.php:153
+msgid "If you need assistance, see our help resources."
+msgstr "کمک نیاز دارید، لطفا منابع ما را ببینید."
+
+#: includes/acupnm-settings.php:137
+msgid "This feature allows you to update plugins and themes using a zip file. While upgrading, a backup copy of the old theme or plugin is first created. This allows you to install the old version in case of problems with the new version."
+msgstr "این ویژگی به شما اجازه می‌دهد که افزونه‌ها و قالب‌ها را بدون حذف کردن و از طریق فایل zip بروزرسانی کنید. هنگام ارتقا یک عدد پشتیبان از قالب یا افزونه قدیمی تهیه می شود. این ویژگی اجازه می‌دهد در صورتی که با نسخه جدید مشکل داشتید بتوانید نسخه قدیمی را نصب کنید."
+
+#: includes/acupnm-settings.php:128
+msgid "&#10004; Update theme and plugin from zip"
+msgstr "&#10004; بروزرسانی افزونه و قالب از طریق فایل zip"
+
+#: includes/acupnm-settings.php:124
+msgid "Hide WordPress core update notice from WP dashboard."
+msgstr "اطلاعیه‌های هسته وردپرس را از پیشخوان مخفی می‌کند."
+
+#: includes/acupnm-settings.php:115
+msgid "&#10004; Hide WordPress core update notice"
+msgstr "&#10004; مخفی کردن اطلاعیه‌های هسته وردپرس"
+
+#: includes/acupnm-settings.php:111
+msgid "Disable the WordPress core update and notifications."
+msgstr "بروزرسانی و اعلان‌های هسته وردپرس را غیرفعال می‌کند."
+
+#: includes/acupnm-settings.php:102
+msgid "&#10004; Disable WP core update and notifs"
+msgstr "&#10004; غیرفعالسازی بروزرسانی و اعلان‌های هسته"
+
+#: includes/acupnm-settings.php:98
+msgid "Disable the WordPress themes updates and notifications."
+msgstr "بروزرسانی‌ها و اعلان‌های قالب‌ها را غیرفعال می‌کند."
+
+#: includes/acupnm-settings.php:89
+msgid "&#10004; Disable themes updates and notifs"
+msgstr "&#10004; غیرفعالسازی بروزرسانی و اعلان‌های قالب‌ها"
+
+#: includes/acupnm-settings.php:85
+msgid "Disable the WordPress plugins updates and notifications."
+msgstr "بروزرسانی‌ها و اعلان‌های افزونه‌ها را غیرفعال می‌کند."
+
+#: includes/acupnm-settings.php:76
+msgid "&#10004; Disable plugins updates and notifs"
+msgstr "&#10004; غیرفعالسازی بروزرسانی و اعلان‌های افزونه‌ها"
+
+#: includes/acupnm-settings.php:72
+msgid "Disable all notices from the WordPress dashboard. e.g. errors, updates, warning, rate us, license, dismissible and etc."
+msgstr "تمامی اطلاعیه‌ها را از پیشخوان وردپرس مخفی می‌کند. به عنوان مثال: خطاها، هشدارها، بروزرسانی‌ها، امتیاز بدهید، لایسنس، قابل رد کردن و ..."
+
+#: includes/acupnm-settings.php:63
+msgid "&#10004; Hide all notices from WP dashboard"
+msgstr "&#10004; مخفی کردن تمامی اطلاعیه‌ها از پیشخوان"
+
+#: includes/acupnm-settings.php:59
+msgid "Disable all WordPress core, themes, plugins and translations updates and notifications."
+msgstr "تمامی بروزرسانی‌ها و اعلان‌های هسته، قالب‌ها، افزونه‌ها و ترجمه‌های وردپرس را غیرفعال می کند."
+
+#: includes/acupnm-settings.php:50
+msgid "&#10004; Disable all WP updates and notifs"
+msgstr "&#10004; غیرفعالسازی تمامی بروزرسانی‌ها و اعلان‌ها"
+
+#: includes/acupnm-settings.php:39
+msgid "Options"
+msgstr "تنظیمات"
+
+#: includes/acupnm-settings.php:33
+msgid "The ACh Update Manager plugin for WordPress. Manage all your WordPress updates and notifications with one click!"
+msgstr "با افزونه مدیریت بروزرسانی‌های ACh برای وردپرس، می‌توانید تمام بروزرسانی‌ها و اطلاعیه‌های وردپرس را با یک کلیک مدیریت کنید!"
+
+#. translators: 1: plugin name, 2: plugin version
+#: includes/easy-update/ach-plugin-updater.php:171
+msgid "Plugin Backup - %1$s - %2$s"
+msgstr "پشتیبان افزونه - %1$s - %2$s"
+
+#. translators: 1: zip error details
+#: includes/easy-update/ach-plugin-updater.php:164
+msgid "A plugin backup can not be created as creation of the zip file failed with the following error: %1$s"
+msgstr "نسخه پشتیبان از افزونه نمی‌تواند ایجاد شود زیرا ایجاد فایل zip با خطای زیر مواجه شد: %1$s"
+
+#: includes/easy-update/ach-plugin-updater.php:139
+msgid "A plugin backup can not be created since a destination path for the backup file could not be found."
+msgstr "نسخه پشتیبان از افزونه نمی‌تواند ایجاد شود زیرا مسیر مقصد برای فایل پشتیبان یافت نشد."
+
+#: includes/easy-update/ach-plugin-updater.php:119
+msgid "Unable to move the old version of the plugin to a new directory. No backup will be created."
+msgstr "امکان انتقال نسخه قدیمی افزونه به یک دایرکتوری جدید وجود ندارد. هیچ پشتیبانی ایجاد نمی‌شود."
+
+#. translators: 1: new plugin directory name
+#: includes/easy-update/ach-plugin-updater.php:117
+msgid "Moved the old version of the plugin to a new plugin directory named %1$s. This directory should be backed up and removed from the site."
+msgstr "نسخه قدیمی افزونه به یک دایرکتوری جدید افزونه با نام %1$s منتقل شد. از این دایرکتوری باید پشتیبان تهیه و از سایت حذف شود."
+
+#: includes/easy-update/ach-plugin-updater.php:111
+msgid "Unable to find a new directory name to move the old version of the plugin to. No backup will be created."
+msgstr "یافتن یک نام دایرکتوری جدید برای انتقال نسخه قدیمی افزونه به آن امکان پذیر نیست. هیچ پشتیبانی ایجاد نمی‌شود."
+
+#: includes/easy-update/ach-plugin-updater.php:95
+msgid "Moving the old version of the plugin to a new directory&#8230;"
+msgstr "در حال انتقال نسخه قدیمی افزونه به دایرکتوری جدید&#8230;"
+
+#. translators: 1: plugin zip URL
+#: includes/easy-update/ach-plugin-updater.php:85
+msgid "A backup zip file of the old plugin version can be downloaded <a href=\"%1$s\">here</a>."
+msgstr "فایل zip پشتیبان از نسخه قدیمی افزونه را می‌توانید از <a href=\"%1$s\">اینجا</a> دانلود کنید."
+
+#: includes/easy-update/ach-plugin-updater.php:39
+msgid "Backing up the old version of the plugin&#8230;"
+msgstr "درحال تهیه پشتیبان از نسخه قدیمی افزونه&#8230;"
+
+#: includes/easy-update/ach-plugin-updater.php:38
+msgid "Upgrading the plugin&#8230;"
+msgstr "در حال ارتقا افزونه&#8230;"
+
+#: includes/easy-update/ach-easy-update.php:70
+msgid "Installing Plugin from uploaded file: %s"
+msgstr "در حال نصب افزونه از پرونده بارگذاری شده: %s"
+
+#: includes/easy-update/ach-easy-update.php:65
+msgid "Upload Plugin"
+msgstr "بارگذاری افزونه"
+
+#: includes/easy-update/ach-easy-update.php:58
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "متأسفیم، شما مجاز به نصب افزونه در این سایت نیستید."
+
+#: includes/easy-update/ach-easy-update.php:37
+msgid "Installing Theme from uploaded file: %s"
+msgstr "در حال نصب قالب از پرونده بارگذاری شده: %s"
+
+#: includes/easy-update/ach-easy-update.php:31
+msgid "Upload Theme"
+msgstr "بارگذاری قالب"
+
+#: includes/easy-update/ach-easy-update.php:22
+msgid "Sorry, you are not allowed to install themes on this site."
+msgstr "متأسفیم، شما مجاز به نصب قالب در این سایت نیستید."
+
+#. translators: 1: theme name, 2: theme version
+#: includes/easy-update/ach-theme-updater.php:152
+msgid "Theme Backup - %1$s - %2$s"
+msgstr "پشتیبان قالب - %1$s - %2$s"
+
+#. translators: 1: zip error details
+#: includes/easy-update/ach-theme-updater.php:145
+msgid "A theme backup can not be created as creation of the zip file failed with the following error: %1$s"
+msgstr "نسخه پشتیبان از قالب نمی‌تواند ایجاد شود زیرا ایجاد فایل zip با خطای زیر مواجه شد: %1$s"
+
+#: includes/easy-update/ach-theme-updater.php:116
+msgid "A theme backup can not be created since a destination path for the backup file could not be found."
+msgstr "نسخه پشتیبان از قالب نمی‌تواند ایجاد شود زیرا مسیر مقصد برای فایل پشتیبان یافت نشد."
+
+#: includes/easy-update/ach-theme-updater.php:96
+msgid "Unable to move the old version of the theme to a new directory. No backup will be created."
+msgstr "امکان انتقال نسخه قدیمی قالب به یک دایرکتوری جدید وجود ندارد. هیچ پشتیبانی ایجاد نمی‌شود."
+
+#. translators: 1: new theme directory name
+#: includes/easy-update/ach-theme-updater.php:94
+msgid "Moved the old version of the theme to a new theme directory named %1$s. This directory should be backed up and removed from the site."
+msgstr "نسخه قدیمی قالب به یک دایرکتوری جدید قالب با نام %1$s منتقل شد. از این دایرکتوری باید پشتیبان تهیه و از سایت حذف شود."
+
+#: includes/easy-update/ach-theme-updater.php:88
+msgid "Unable to find a new directory name to move the old version of the theme to. No backup will be created."
+msgstr "یافتن یک نام دایرکتوری جدید برای انتقال نسخه قدیمی قالب به آن امکان پذیر نیست. هیچ پشتیبانی ایجاد نمی‌شود."
+
+#: includes/easy-update/ach-theme-updater.php:67
+msgid "Moving the old version of the theme to a new directory&#8230;"
+msgstr "در حال انتقال نسخه قدیمی قالب به دایرکتوری جدید&#8230;"
+
+#. translators: 1: theme zip URL
+#: includes/easy-update/ach-theme-updater.php:57
+msgid "A backup zip file of the old theme version can be downloaded <a href=\"%1$s\">here</a>."
+msgstr "فایل zip پشتیبان از نسخه قدیمی قالب را می‌توانید از <a href=\"%1$s\">اینجا</a> دانلود کنید."
+
+#: includes/easy-update/ach-theme-updater.php:39
+msgid "Backing up the old version of the theme&#8230;"
+msgstr "درحال تهیه پشتیبان از نسخه قدیمی قالب&#8230;"
+
+#: includes/easy-update/ach-theme-updater.php:38
+msgid "Upgrading the theme&#8230;"
+msgstr "در حال ارتقا قالب&#8230;"
+
+#: ACh-Updates-Manager.php:91
+msgid "Updates Manager"
+msgstr "مدیریت بروزرسانی"
+
+#: ACh-Updates-Manager.php:91 includes/acupnm-settings.php:32
+msgid "ACh Updates and Notices Manager"
+msgstr "مدیریت بروزرسانی‌ها و اطلاعیه‌های وردپرس"
+
+#: ACh-Updates-Manager.php:75
+msgid "Donate"
+msgstr "کمک مالی"
+
+#: ACh-Updates-Manager.php:74 includes/acupnm-settings.php:40
+#: includes/acupnm-settings.php:150
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: ACh-Updates-Manager.php:63
+msgid "Manage"
+msgstr "تنظیمات"
+
+#: ACh-Updates-Manager.php:53
+msgid "Thanks for installing %1$s v%2$s plugin. Click <a href=\"%3$s\">here</a> to configure plugin settings."
+msgstr "از اینکه افزونه %1$s v%2$s را نصب کردید ممنونیم. لطفا برای تنظیم افزونه <a href=\"%3$s\">اینجا</a> کلیک کنید."
+
+#. Author URI of the plugin
+msgid "https://ach.li"
+msgstr "https://ach.li"
+
+#. Author of the plugin
+msgid "A. Ch"
+msgstr "A. Ch"
+
+#. Description of the plugin
+msgid "The ACh Updates and Notices Manager is an easy way to manage all your WordPress updates and notifications with one click! e.g. Disable all updates or notifications, Disable automatic updates, Hide errors and warnings messages, Update themes and plugins from zip file and etc."
+msgstr "افزونه مدیریت بروزرسانی‌ها و اطلاعیه‌های ACh یک راه ساده است برای مدیریت تمام بروزرسانی‌ها و اطلاعیه‌های وردپرس با یک کلیک! به عنوان مثال: غیرفعالسازی تمامی بروزرسانی‌ها یا اعلان‌ها، غیرفعالسازی بروزرسانی‌های خودکار، مخفی کردن پیام‌های خطا و هشدارها، بروزرسانی قالب و افزونه‌ها از طریق فایل zip و ..."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/ach-updates-manager"
+msgstr "https://wordpress.org/plugins/ach-updates-manager"
+
+#. Plugin Name of the plugin
+msgid "ACh Updates Manager"
+msgstr "ACh Updates Manager"
